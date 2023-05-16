@@ -1,5 +1,3 @@
-alert("Só lembrando: te amo muito e quero voce pra sempre minha linda, jaja a gente conquista o que quisermos");
-
 
 const botaoAlterarTema = document.getElementById("botao-alterar-tema");
 
